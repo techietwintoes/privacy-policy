@@ -1,3 +1,5 @@
+## maximal - premium minimalist launcher with themes
+
 **Privacy Policy**
 
 BLR18 Apps built the maximal app as a Freemium app. This SERVICE is provided by BLR18 Apps at no cost and is intended for use as is.
