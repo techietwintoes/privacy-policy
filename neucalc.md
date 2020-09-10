@@ -1,3 +1,5 @@
+## NeuCalc - Simple calculator, striking design
+
 **Privacy Policy**
 
 BLR18 Apps built the NeuCalc app as an Ad Supported app. This SERVICE is provided by BLR18 Apps at no cost and is intended for use as is.
