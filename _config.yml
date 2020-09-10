@@ -3,5 +3,6 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-  
+name: BLR18 Apps
+title: null
 theme: jekyll-theme-modernist
